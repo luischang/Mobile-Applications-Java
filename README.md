@@ -6,3 +6,4 @@
 4. [Sample basic List View ](https://github.com/luischang/SampleListView)
 5. [RecyclerView](https://github.com/luischang/RecyclerView)
 6. [Runtime Permissions with READ_EXTERNAL_STORAGE ](https://github.com/luischang/RuntimePermissions)
+7. [Simple Camera - Intent & Intent-Filter](https://github.com/luischang/SimpleCamera)
