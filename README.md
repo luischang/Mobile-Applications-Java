@@ -8,3 +8,4 @@
 6. [Runtime Permissions with READ_EXTERNAL_STORAGE ](https://github.com/luischang/RuntimePermissions)
 7. [Simple Camera - Intent & Intent-Filter](https://github.com/luischang/SimpleCamera)
 8. [Fragments](https://github.com/luischang/Fragments)
+9. [ViewGroups (LinearLayout, RelativeLayout)](https://github.com/luischang/ViewGroups)
