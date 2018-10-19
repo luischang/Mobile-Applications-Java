@@ -11,3 +11,6 @@
 9. [Fragments](https://github.com/luischang/Fragments)
 10. [ViewGroups](https://github.com/luischang/ViewGroups)
 11. [CustomViews](https://github.com/luischang/CustomView)
+12. [Basic NavigationDrawer](https://github.com/luischang/NavigationMD)
+13. [Media Player](https://github.com/luischang/MediaPlayer)
+14. [Dialog Fragment & WebView](https://github.com/luischang/DialogFragmentWebView)
