@@ -17,3 +17,5 @@
 15. [Basic CRUD SQLite](https://github.com/luischang/SqlLite)
 16. [Basic Firebase](https://github.com/luischang/BasicFirebase)
 17. [Web Services (Volley&Glide) RecyclerView Pokemon](https://github.com/luischang/WSRecyclerPokemon)
+18. [Web Services & PHP & CRUD](https://github.com/luischang/WebServicesPhp)
+19. [Sample Google Maps](https://github.com/luischang/GMaps)
